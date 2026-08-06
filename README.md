@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahiman286" alt="rahiman286" /></a> </p>
 
-- 🔭 I’m currently working on **Packaged Food Health Analyzer**
 
 - 🌱 I’m currently learning **Advanced Agentic Frameworks & Scalable MLOps**
 
