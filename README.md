@@ -1,4 +1,3 @@
-src="./assets/profile-banner.png" /></a>
 <h1 align="center">Hi 👋, I'm Rahiman Shaikh</h1>
 <h3 align="center">AI Engineer specializing in Machine Learning, GenAI, and Agentic Workflows</h3>
 
