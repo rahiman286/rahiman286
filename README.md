@@ -18,11 +18,11 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 💻 AI Engineer specializing in Machine Learning, GenAI, and Agentic Workflows[cite: 1]
-- 🌱 Currently exploring advanced agentic frameworks & scalable MLOps[cite: 1]
+- 💻 AI Engineer specializing in Machine Learning, GenAI, and Agentic Workflows
+- 🌱 Currently exploring advanced agentic frameworks & scalable MLOps
 - 🚀 Passionate about building robust RAG pipelines and intelligent systems
 - 🤖 Interested in LLM ecosystems, vector databases, and multi-agent systems
-- ⚡ Fun fact: I build intelligent AI systems to simplify everyday decisions[cite: 1]
+- ⚡ Fun fact: I build intelligent AI systems to simplify everyday decisions
 
 <br>
 
