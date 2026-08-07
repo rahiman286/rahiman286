@@ -1,91 +1,205 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9jLsBqPh6rjuHuM/giphy.gif" width="60" alt="Waving Hand">
-  <h1 align="center">Hi there, I'm Rahiman Shaikh</h1>
-  <h3 align="center">🚀 AI Engineer | GenAI Specialist | Agentic Workflows & MLOps</h3>
-  
-  <p align="center">
-    <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhOBK/giphy.gif" width="100%" height="6px" alt="Divider">
-  </p>
-</div>
+
+
+<h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • React Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahiman286&label=Profile%20Views&color=0e75b6&style=flat-square" alt="rahiman286 profile views" />
-  <img src="https://img.shields.io/badge/Status-Exploring%20AGI-blueviolet?style=flat-square&logo=openai" alt="Status" />
-  <img src="https://img.shields.io/badge/Open%20Source-Ready-success?style=flat-square&logo=github" alt="Open Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/2v170e71aanii/giphy.gif" width="30" alt="About Me"> About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+# 💫 About Me
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🔭 I’m currently working on <b>Advanced Multi-Agent Research Assistant using CrewAI</b></li>
-        <li>🌱 I’m currently learning <b>Advanced Agentic Frameworks & Scalable MLOps</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open-source AI and RAG applications</b></li>
-        <li>🤝 I’m looking for help with <b>Advanced MLOps and agent optimization</b></li>
-        <li>💬 Ask me about <b>Python, PyTorch, LangChain, CrewAI, FastAPI, and Vector Databases</b></li>
-        <li>⚡ Fun fact: <b>I build intelligent AI systems to simplify everyday decisions.</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/3o7TKWpu2WEazaX0E0/giphy.gif" width="220" alt="AI Animation">
-    </td>
-  </tr>
-</table>
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Full Stack MERN Developer
+- 🌱 Currently learning **Advanced React & Backend Architecture**
+- 🚀 Passionate about building scalable web applications
+- 🤖 Interested in AI Integration
+- ⚡ Love solving DSA problems
+
+<br>
 
 ---
 
-### <img src="https://media.giphy.com/media/WpaVWCHs3k4F2/giphy.gif" width="30" alt="Tech Stack"> Tech Stack & Tools
+# 🌐 Connect With Me
 
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,c,html,css&perline=4" />
-</p>
-<p align="center">
-  <!-- AI / ML / Data -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,scikit-learn&perline=5" />
-</p>
-<p align="center">
-  <!-- Backend & Cloud & Devops -->
-  <img src="https://skillicons.dev/icons?i=fastapi,django,docker,kubernetes,aws,gcp,azure,jenkins,git,mysql,postgres,react&perline=6" />
-</p>
 
----
+<a href="https://linkedin.com/in/gurjot-zaildar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr216NW/giphy.gif" width="30" alt="Stats"> GitHub Analytics & Trophies
+<a href="https://instagram.com/gurjot_zaildar_pb12">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahiman286&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="rahiman286 trophies" />
-</p>
+<a href="mailto:gurjot.singh.coder@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rahiman286&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="rahiman286 stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahiman286&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="top languages" /></td>
-  </tr>
-</table>
+<a href="https://portfolio-iota-neon-47.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahiman286&theme=radical&hide_border=true&background=0D1117" alt="github streak" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/fVujW8yM5wV4k1M1W3/giphy.gif" width="30" alt="Connect"> Let's Connect
+# 💻 Tech Stack
 
-<p align="center">
-  <a href="https://linkedin.com/in/rahiman-shaikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shaikhrahiman286@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,redux,vite,nextjs" />
+
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9AQHJGDLVUDovDtpt/giphy.gif" width="100" alt="Thank You">
-  <p><i>Thanks for visiting my profile! Feel free to reach out for collaborations.</i></p>
-</div>
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,php,dotnet,jest,rabbitmq" />
+
+</p>
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,javascript" />
+
+</p>
+
+### DevOps & Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,git,github" />
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,postman,notion,npm,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gurjot-zaildar&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gurjot-zaildar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gurjot-zaildar&theme=tokyonight&hide_border=true"/>
+
+</p>
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjot-zaildar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/gurjot_singh_coder?theme=dark&font=Baloo&ext=heatmap"/>
+
+</p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurjot-zaildar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurjot-zaildar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurjot-zaildar&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurjot-zaildar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurjot-zaildar&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ✍️ Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support Me
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1hkc0qiPg-FRx6uXAtCPsrRMFe1HvYhPL/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gurjot-zaildar&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/gurjot-zaildar?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/gurjot-zaildar?style=for-the-badge"/>
+
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078FF,100:00F5FF&height=120&section=footer"/>
+</p>
