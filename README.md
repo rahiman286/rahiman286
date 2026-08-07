@@ -62,7 +62,7 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,scikit-learn" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,opencv,scikit-learn" />
 
 </p>
 
@@ -70,25 +70,26 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 
 </p>
 
-### Framework, Software & Other
+### DevOps & Cloud
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,vscode,postman,git,arduino" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes,jenkins,aws,gcp,git,github" />
 
 </p>
 
-### DevOps
+### Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gcp,kubernetes" />
+<img src="https://skillicons.dev/icons?i=vscode,postman," />
 
 </p>
+
 
 # 📊 GitHub Stats
 
