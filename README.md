@@ -14,7 +14,7 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0078FF&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-# 💫 About Me[cite: 1]
+# 💫 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
@@ -50,31 +50,45 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 
 # 💻 Tech Stack
 
-### AI, ML & GenAI
+### Programming Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=c,python" />
 
 </p>
 
-### Backend & Databases
+### AI/ML
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,scikit-learn" />
 
 </p>
 
-### DevOps & Tools
+### Databases
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode,postman,powerbi" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 </p>
 
----
+### Framework, Software & Other
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,vscode,postman,git,arduino" />
+
+</p>
+
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gcp,kubernetes" />
+
+</p>
 
 # 📊 GitHub Stats
 
