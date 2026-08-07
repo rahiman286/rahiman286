@@ -62,7 +62,7 @@ AI Engineer • Machine Learning & GenAI Specialist • Agentic Workflows
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,opencv,scikit-learn" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikit-learn" />
 
 </p>
 
